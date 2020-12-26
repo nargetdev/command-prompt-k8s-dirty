@@ -18,5 +18,6 @@ Resulting states could be.
 
 Similar "dirty" warning as accomplished by similar git tools:
 
-➜  lewansoul-lx16a git:(nathan/doxeldrive) ✗ rm dirty_state
-➜  lewansoul-lx16a git:(nathan/doxeldrive)
+    ➜  command-prompt-k8s-dirty git:(master) touch dirt
+    ➜  command-prompt-k8s-dirty git:(master) ✗ rm dirt
+    ➜  command-prompt-k8s-dirty git:(master)
