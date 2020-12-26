@@ -10,9 +10,9 @@ In other words we are providing a simple frontend for the following operation.
 
 Resulting states could be.
 
-+ IaC ahead ... indicates the infrastructure-as-code config is ahead of the state of cluster (not yet applied)
-+ Synchronized
-+ Cluster ahead ... indicates the cluster has operations the configs don't have (TODO: perhaps oneday some altruistic soul will create an IDE overlay that indicates *exactly where* that delta lies within the configs (file/linenum)
++ **IaC ahead** ... indicates the infrastructure-as-code config is ahead of the state of cluster (not yet applied)
++ **Synchronized**
++ **Cluster ahead** ... indicates the cluster has operations the configs don't have (TODO: perhaps oneday some altruistic soul will create an IDE overlay that indicates *exactly where* that delta lies within the configs (file/linenum)
 
 ## Visual Affect
 
